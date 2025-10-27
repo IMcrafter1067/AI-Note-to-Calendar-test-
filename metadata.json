@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Voice & Text Note Taker",
+  "description": "A smart calendar assistant that converts your voice or text notes into structured calendar events using AI. Simply speak or type your event, and the app will parse the details for you.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
